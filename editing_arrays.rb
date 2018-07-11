@@ -11,9 +11,6 @@ def change_rainbow_colors
   return RAINBOW_COLORS
 end
 
-change_rainbow_colors
-
-
 def add_colors
   RAINBOW_COLORS.push = "green"
   RAINBOW_COLORS.push = "blue"
